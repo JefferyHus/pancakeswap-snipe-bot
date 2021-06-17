@@ -1,0 +1,26 @@
+{
+  "name": "pancakeswap-snipe-bot",
+  "version": "1.0.0",
+  "description": "Pancakeswap snipebot",
+  "main": "snipe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefferyHus/pancakeswap-snipe-bot.git"
+  },
+  "keywords": [
+    "pancakeswap",
+    "snipebot",
+    "binance",
+    "crypot",
+    "trading"
+  ],
+  "author": "jeffery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JefferyHus/pancakeswap-snipe-bot/issues"
+  },
+  "homepage": "https://github.com/JefferyHus/pancakeswap-snipe-bot#readme"
+}
